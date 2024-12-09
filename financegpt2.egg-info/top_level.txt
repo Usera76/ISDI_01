@@ -1,0 +1,10 @@
+automation
+config
+data_processing
+frontend
+ml_analysis
+opinion
+scenarios
+tests
+utils
+visualization

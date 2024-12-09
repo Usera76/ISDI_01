@@ -1,0 +1,12 @@
+{
+  "fecha_generacion": "2024-12-09 00:06:47",
+  "archivos_generados": [
+    "datos_historicos.csv",
+    "informe_financiero_2023.pdf"
+  ],
+  "registros_totales": 773,
+  "resumen_financiero": {
+    "total_ingresos": 543009.67,
+    "total_gastos": 395957.19999999995
+  }
+}

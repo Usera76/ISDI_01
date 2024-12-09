@@ -1,0 +1,774 @@
+fecha,concepto,entidad,tipo,importe
+2020-02-04,Servicios Profesionales,Sistemas Integrados,Ingreso,4471.7
+2020-02-04,Electricidad,Iberdrola,Gasto,180.08
+2020-02-04,Agua,Canal Isabel II,Gasto,77.71
+2020-02-04,Internet y Telefonía,Movistar,Gasto,99.36
+2020-02-04,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2020-02-04,Material Oficina,Office Depot,Gasto,253.71
+2020-02-04,Software y Licencias,Varios,Gasto,302.47
+2020-02-04,Mantenimiento,ServiTech,Gasto,140.52
+2020-02-04,Nóminas,Personal,Gasto,3213.24
+2020-02-04,Seguridad Social,TGSS,Gasto,1099.94
+2020-02-04,Gestoría,AsesoresPlus,Gasto,150.0
+2020-02-04,Seguros,Mapfre,Gasto,200.0
+2020-03-05,Electricidad,Iberdrola,Gasto,185.22
+2020-03-05,Agua,Canal Isabel II,Gasto,112.4
+2020-03-05,Internet y Telefonía,Movistar,Gasto,115.69
+2020-03-05,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2020-03-05,Material Oficina,Office Depot,Gasto,240.12
+2020-03-05,Seguros,Mapfre,Gasto,200.0
+2020-03-05,Mantenimiento,ServiTech,Gasto,127.87
+2020-03-05,Nóminas,Personal,Gasto,3247.85
+2020-03-05,Seguridad Social,TGSS,Gasto,1311.67
+2020-03-05,Gestoría,AsesoresPlus,Gasto,150.0
+2020-03-05,Software y Licencias,Varios,Gasto,267.5
+2020-03-05,Servicios Profesionales,Consultoría Avanzada,Ingreso,6035.02
+2020-04-04,Electricidad,Iberdrola,Gasto,221.13
+2020-04-04,Agua,Canal Isabel II,Gasto,76.67
+2020-04-04,Internet y Telefonía,Movistar,Gasto,128.31
+2020-04-04,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2020-04-04,Seguros,Mapfre,Gasto,200.0
+2020-04-04,Material Oficina,Office Depot,Gasto,177.87
+2020-04-04,Nóminas,Personal,Gasto,3197.03
+2020-04-04,Seguridad Social,TGSS,Gasto,1570.47
+2020-04-04,Gestoría,AsesoresPlus,Gasto,150.0
+2020-04-04,Software y Licencias,Varios,Gasto,219.3
+2020-04-04,Servicios Profesionales,Innovatech,Ingreso,3415.74
+2020-04-04,Mantenimiento,ServiTech,Gasto,128.25
+2020-05-04,Mantenimiento,ServiTech,Gasto,308.41
+2020-05-04,Electricidad,Iberdrola,Gasto,262.51
+2020-05-04,Agua,Canal Isabel II,Gasto,109.02
+2020-05-04,Internet y Telefonía,Movistar,Gasto,131.95
+2020-05-04,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2020-05-04,Material Oficina,Office Depot,Gasto,168.75
+2020-05-04,Seguros,Mapfre,Gasto,200.0
+2020-05-04,Seguridad Social,TGSS,Gasto,1308.58
+2020-05-04,Gestoría,AsesoresPlus,Gasto,150.0
+2020-05-04,Software y Licencias,Varios,Gasto,409.8
+2020-05-04,Servicios Profesionales,Desarrollo Digital SL,Ingreso,8367.1
+2020-05-04,Servicios Profesionales,Innovatech,Ingreso,8498.65
+2020-05-04,Servicios Profesionales,Consultoría Avanzada,Ingreso,4907.67
+2020-05-04,Nóminas,Personal,Gasto,3804.88
+2020-06-03,Internet y Telefonía,Movistar,Gasto,155.73
+2020-06-03,Material Oficina,Office Depot,Gasto,100.37
+2020-06-03,Electricidad,Iberdrola,Gasto,266.7
+2020-06-03,Agua,Canal Isabel II,Gasto,61.98
+2020-06-03,Seguros,Mapfre,Gasto,200.0
+2020-06-03,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2020-06-03,Nóminas,Personal,Gasto,4284.16
+2020-06-03,Software y Licencias,Varios,Gasto,170.68
+2020-06-03,Gestoría,AsesoresPlus,Gasto,150.0
+2020-06-03,Mantenimiento,ServiTech,Gasto,77.41
+2020-06-03,Servicios Profesionales,Innovatech,Ingreso,5985.6
+2020-06-03,Seguridad Social,TGSS,Gasto,1180.64
+2020-07-03,Electricidad,Iberdrola,Gasto,175.91
+2020-07-03,Agua,Canal Isabel II,Gasto,72.61
+2020-07-03,Internet y Telefonía,Movistar,Gasto,112.28
+2020-07-03,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2020-07-03,Seguros,Mapfre,Gasto,200.0
+2020-07-03,Material Oficina,Office Depot,Gasto,232.54
+2020-07-03,Seguridad Social,TGSS,Gasto,865.02
+2020-07-03,Gestoría,AsesoresPlus,Gasto,150.0
+2020-07-03,Software y Licencias,Varios,Gasto,114.6
+2020-07-03,Servicios Profesionales,Consultoría Avanzada,Ingreso,5028.62
+2020-07-03,Servicios Profesionales,TechSolutions SA,Ingreso,2462.49
+2020-07-03,Servicios Profesionales,Sistemas Integrados,Ingreso,3306.05
+2020-07-03,Nóminas,Personal,Gasto,2104.77
+2020-07-03,Mantenimiento,ServiTech,Gasto,71.77
+2020-08-02,Seguros,Mapfre,Gasto,200.0
+2020-08-02,Electricidad,Iberdrola,Gasto,160.61
+2020-08-02,Agua,Canal Isabel II,Gasto,14.02
+2020-08-02,Internet y Telefonía,Movistar,Gasto,64.33
+2020-08-02,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2020-08-02,Material Oficina,Office Depot,Gasto,76.9
+2020-08-02,Nóminas,Personal,Gasto,1414.16
+2020-08-02,Seguridad Social,TGSS,Gasto,673.66
+2020-08-02,Gestoría,AsesoresPlus,Gasto,150.0
+2020-08-02,Software y Licencias,Varios,Gasto,123.67
+2020-08-02,Servicios Profesionales,Innovatech,Ingreso,2899.03
+2020-08-02,Servicios Profesionales,Desarrollo Digital SL,Ingreso,2805.31
+2020-08-02,Servicios Profesionales,Innovatech,Ingreso,3989.61
+2020-08-02,Mantenimiento,ServiTech,Gasto,113.87
+2020-09-01,Electricidad,Iberdrola,Gasto,233.74
+2020-09-01,Agua,Canal Isabel II,Gasto,89.52
+2020-09-01,Internet y Telefonía,Movistar,Gasto,140.39
+2020-09-01,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2020-09-01,Material Oficina,Office Depot,Gasto,79.47
+2020-09-01,Seguros,Mapfre,Gasto,200.0
+2020-09-01,Mantenimiento,ServiTech,Gasto,61.38
+2020-09-01,Seguridad Social,TGSS,Gasto,1434.36
+2020-09-01,Gestoría,AsesoresPlus,Gasto,150.0
+2020-09-01,Software y Licencias,Varios,Gasto,246.48
+2020-09-01,Servicios Profesionales,Sistemas Integrados,Ingreso,8026.44
+2020-09-01,Servicios Profesionales,Innovatech,Ingreso,5763.72
+2020-09-01,Nóminas,Personal,Gasto,3828.0
+2020-10-01,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2020-10-01,Electricidad,Iberdrola,Gasto,346.64
+2020-10-01,Agua,Canal Isabel II,Gasto,60.78
+2020-10-01,Internet y Telefonía,Movistar,Gasto,135.3
+2020-10-01,Material Oficina,Office Depot,Gasto,141.45
+2020-10-01,Servicios Profesionales,Consultoría Avanzada,Ingreso,6498.85
+2020-10-01,Mantenimiento,ServiTech,Gasto,213.9
+2020-10-01,Nóminas,Personal,Gasto,4228.49
+2020-10-01,Seguridad Social,TGSS,Gasto,1404.53
+2020-10-01,Gestoría,AsesoresPlus,Gasto,150.0
+2020-10-01,Software y Licencias,Varios,Gasto,293.91
+2020-10-01,Seguros,Mapfre,Gasto,200.0
+2020-10-31,Electricidad,Iberdrola,Gasto,352.68
+2020-10-31,Agua,Canal Isabel II,Gasto,104.07
+2020-10-31,Internet y Telefonía,Movistar,Gasto,164.74
+2020-10-31,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2020-10-31,Material Oficina,Office Depot,Gasto,120.24
+2020-10-31,Seguros,Mapfre,Gasto,200.0
+2020-10-31,Mantenimiento,ServiTech,Gasto,144.82
+2020-10-31,Nóminas,Personal,Gasto,3710.07
+2020-10-31,Seguridad Social,TGSS,Gasto,1730.21
+2020-10-31,Gestoría,AsesoresPlus,Gasto,150.0
+2020-10-31,Software y Licencias,Varios,Gasto,226.78
+2020-10-31,Servicios Profesionales,Consultoría Avanzada,Ingreso,6580.5
+2020-10-31,Servicios Profesionales,Sistemas Integrados,Ingreso,4322.77
+2020-10-31,Servicios Profesionales,TechSolutions SA,Ingreso,3729.02
+2020-11-30,Electricidad,Iberdrola,Gasto,229.24
+2020-11-30,Agua,Canal Isabel II,Gasto,86.75
+2020-11-30,Internet y Telefonía,Movistar,Gasto,102.47
+2020-11-30,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2020-11-30,Material Oficina,Office Depot,Gasto,126.11
+2020-11-30,Mantenimiento,ServiTech,Gasto,110.19
+2020-11-30,Servicios Profesionales,Innovatech,Ingreso,7681.56
+2020-11-30,Nóminas,Personal,Gasto,4443.93
+2020-11-30,Seguridad Social,TGSS,Gasto,1412.6
+2020-11-30,Gestoría,AsesoresPlus,Gasto,150.0
+2020-11-30,Software y Licencias,Varios,Gasto,123.04
+2020-11-30,Seguros,Mapfre,Gasto,200.0
+2020-12-30,Electricidad,Iberdrola,Gasto,178.99
+2020-12-30,Agua,Canal Isabel II,Gasto,69.98
+2020-12-30,Internet y Telefonía,Movistar,Gasto,99.41
+2020-12-30,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2020-12-30,Material Oficina,Office Depot,Gasto,118.03
+2020-12-30,Seguros,Mapfre,Gasto,200.0
+2020-12-30,Seguridad Social,TGSS,Gasto,971.06
+2020-12-30,Gestoría,AsesoresPlus,Gasto,150.0
+2020-12-30,Software y Licencias,Varios,Gasto,63.37
+2020-12-30,Servicios Profesionales,Consultoría Avanzada,Ingreso,2745.04
+2020-12-30,Mantenimiento,ServiTech,Gasto,150.68
+2020-12-30,Nóminas,Personal,Gasto,3285.6
+2021-01-29,Internet y Telefonía,Movistar,Gasto,73.79
+2021-01-29,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2021-01-29,Electricidad,Iberdrola,Gasto,290.63
+2021-01-29,Agua,Canal Isabel II,Gasto,81.67
+2021-01-29,Material Oficina,Office Depot,Gasto,208.65
+2021-01-29,Software y Licencias,Varios,Gasto,199.66
+2021-01-29,Mantenimiento,ServiTech,Gasto,84.57
+2021-01-29,Nóminas,Personal,Gasto,2051.66
+2021-01-29,Seguridad Social,TGSS,Gasto,822.78
+2021-01-29,Gestoría,AsesoresPlus,Gasto,150.0
+2021-01-29,Servicios Profesionales,Desarrollo Digital SL,Ingreso,4324.26
+2021-01-29,Seguros,Mapfre,Gasto,200.0
+2021-02-28,Electricidad,Iberdrola,Gasto,186.46
+2021-02-28,Agua,Canal Isabel II,Gasto,54.5
+2021-02-28,Internet y Telefonía,Movistar,Gasto,102.94
+2021-02-28,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2021-02-28,Material Oficina,Office Depot,Gasto,127.35
+2021-02-28,Seguros,Mapfre,Gasto,200.0
+2021-02-28,Mantenimiento,ServiTech,Gasto,66.01
+2021-02-28,Nóminas,Personal,Gasto,2331.19
+2021-02-28,Seguridad Social,TGSS,Gasto,1039.4
+2021-02-28,Gestoría,AsesoresPlus,Gasto,150.0
+2021-02-28,Software y Licencias,Varios,Gasto,251.09
+2021-02-28,Servicios Profesionales,Consultoría Avanzada,Ingreso,7093.39
+2021-02-28,Servicios Profesionales,Sistemas Integrados,Ingreso,3683.09
+2021-02-28,Servicios Profesionales,Sistemas Integrados,Ingreso,4623.33
+2021-03-30,Electricidad,Iberdrola,Gasto,247.53
+2021-03-30,Agua,Canal Isabel II,Gasto,40.42
+2021-03-30,Internet y Telefonía,Movistar,Gasto,108.38
+2021-03-30,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2021-03-30,Material Oficina,Office Depot,Gasto,128.91
+2021-03-30,Seguros,Mapfre,Gasto,200.0
+2021-03-30,Servicios Profesionales,TechSolutions SA,Ingreso,2611.01
+2021-03-30,Nóminas,Personal,Gasto,3178.53
+2021-03-30,Seguridad Social,TGSS,Gasto,800.19
+2021-03-30,Gestoría,AsesoresPlus,Gasto,150.0
+2021-03-30,Software y Licencias,Varios,Gasto,164.13
+2021-03-30,Servicios Profesionales,TechSolutions SA,Ingreso,7718.2
+2021-03-30,Servicios Profesionales,Consultoría Avanzada,Ingreso,5624.61
+2021-03-30,Mantenimiento,ServiTech,Gasto,170.5
+2021-04-29,Electricidad,Iberdrola,Gasto,340.85
+2021-04-29,Agua,Canal Isabel II,Gasto,59.16
+2021-04-29,Internet y Telefonía,Movistar,Gasto,158.77
+2021-04-29,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2021-04-29,Material Oficina,Office Depot,Gasto,104.1
+2021-04-29,Nóminas,Personal,Gasto,4392.98
+2021-04-29,Mantenimiento,ServiTech,Gasto,164.95
+2021-04-29,Seguros,Mapfre,Gasto,200.0
+2021-04-29,Software y Licencias,Varios,Gasto,245.96
+2021-04-29,Servicios Profesionales,Consultoría Avanzada,Ingreso,6980.42
+2021-04-29,Gestoría,AsesoresPlus,Gasto,150.0
+2021-04-29,Seguridad Social,TGSS,Gasto,1119.79
+2021-05-29,Servicios Profesionales,Consultoría Avanzada,Ingreso,4448.99
+2021-05-29,Electricidad,Iberdrola,Gasto,306.86
+2021-05-29,Agua,Canal Isabel II,Gasto,129.62
+2021-05-29,Internet y Telefonía,Movistar,Gasto,156.82
+2021-05-29,Servicios Profesionales,Consultoría Avanzada,Ingreso,5014.94
+2021-05-29,Seguros,Mapfre,Gasto,200.0
+2021-05-29,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2021-05-29,Nóminas,Personal,Gasto,4681.42
+2021-05-29,Seguridad Social,TGSS,Gasto,1513.21
+2021-05-29,Gestoría,AsesoresPlus,Gasto,150.0
+2021-05-29,Software y Licencias,Varios,Gasto,64.78
+2021-05-29,Mantenimiento,ServiTech,Gasto,151.23
+2021-05-29,Material Oficina,Office Depot,Gasto,178.02
+2021-06-28,Seguros,Mapfre,Gasto,200.0
+2021-06-28,Electricidad,Iberdrola,Gasto,298.75
+2021-06-28,Agua,Canal Isabel II,Gasto,103.34
+2021-06-28,Internet y Telefonía,Movistar,Gasto,156.89
+2021-06-28,Material Oficina,Office Depot,Gasto,291.74
+2021-06-28,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2021-06-28,Seguridad Social,TGSS,Gasto,1256.87
+2021-06-28,Nóminas,Personal,Gasto,3769.93
+2021-06-28,Servicios Profesionales,Desarrollo Digital SL,Ingreso,6157.89
+2021-06-28,Mantenimiento,ServiTech,Gasto,183.76
+2021-06-28,Gestoría,AsesoresPlus,Gasto,150.0
+2021-06-28,Software y Licencias,Varios,Gasto,180.76
+2021-07-28,Servicios Profesionales,Consultoría Avanzada,Ingreso,3756.18
+2021-07-28,Software y Licencias,Varios,Gasto,257.04
+2021-07-28,Gestoría,AsesoresPlus,Gasto,150.0
+2021-07-28,Seguridad Social,TGSS,Gasto,706.78
+2021-07-28,Mantenimiento,ServiTech,Gasto,99.5
+2021-07-28,Seguros,Mapfre,Gasto,200.0
+2021-07-28,Material Oficina,Office Depot,Gasto,76.01
+2021-07-28,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2021-07-28,Internet y Telefonía,Movistar,Gasto,89.6
+2021-07-28,Agua,Canal Isabel II,Gasto,38.31
+2021-07-28,Electricidad,Iberdrola,Gasto,137.67
+2021-07-28,Nóminas,Personal,Gasto,2212.81
+2021-08-27,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2021-08-27,Internet y Telefonía,Movistar,Gasto,78.33
+2021-08-27,Electricidad,Iberdrola,Gasto,87.02
+2021-08-27,Material Oficina,Office Depot,Gasto,77.99
+2021-08-27,Agua,Canal Isabel II,Gasto,70.59
+2021-08-27,Seguros,Mapfre,Gasto,200.0
+2021-08-27,Gestoría,AsesoresPlus,Gasto,150.0
+2021-08-27,Nóminas,Personal,Gasto,1720.96
+2021-08-27,Seguridad Social,TGSS,Gasto,438.41
+2021-08-27,Servicios Profesionales,Innovatech,Ingreso,2331.5
+2021-08-27,Software y Licencias,Varios,Gasto,249.14
+2021-08-27,Servicios Profesionales,TechSolutions SA,Ingreso,2956.57
+2021-08-27,Mantenimiento,ServiTech,Gasto,110.61
+2021-09-26,Agua,Canal Isabel II,Gasto,121.7
+2021-09-26,Internet y Telefonía,Movistar,Gasto,126.36
+2021-09-26,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2021-09-26,Material Oficina,Office Depot,Gasto,74.98
+2021-09-26,Seguros,Mapfre,Gasto,200.0
+2021-09-26,Mantenimiento,ServiTech,Gasto,178.17
+2021-09-26,Electricidad,Iberdrola,Gasto,313.64
+2021-09-26,Seguridad Social,TGSS,Gasto,1074.65
+2021-09-26,Gestoría,AsesoresPlus,Gasto,150.0
+2021-09-26,Software y Licencias,Varios,Gasto,205.61
+2021-09-26,Servicios Profesionales,Desarrollo Digital SL,Ingreso,9152.37
+2021-09-26,Servicios Profesionales,Desarrollo Digital SL,Ingreso,5200.83
+2021-09-26,Servicios Profesionales,Sistemas Integrados,Ingreso,5766.6
+2021-09-26,Nóminas,Personal,Gasto,4168.39
+2021-10-26,Electricidad,Iberdrola,Gasto,288.19
+2021-10-26,Agua,Canal Isabel II,Gasto,74.03
+2021-10-26,Internet y Telefonía,Movistar,Gasto,143.36
+2021-10-26,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2021-10-26,Material Oficina,Office Depot,Gasto,139.2
+2021-10-26,Seguros,Mapfre,Gasto,200.0
+2021-10-26,Mantenimiento,ServiTech,Gasto,177.44
+2021-10-26,Seguridad Social,TGSS,Gasto,1335.29
+2021-10-26,Gestoría,AsesoresPlus,Gasto,150.0
+2021-10-26,Software y Licencias,Varios,Gasto,188.68
+2021-10-26,Servicios Profesionales,Desarrollo Digital SL,Ingreso,6145.22
+2021-10-26,Servicios Profesionales,TechSolutions SA,Ingreso,5167.8
+2021-10-26,Nóminas,Personal,Gasto,4016.99
+2021-11-25,Electricidad,Iberdrola,Gasto,348.32
+2021-11-25,Material Oficina,Office Depot,Gasto,198.39
+2021-11-25,Internet y Telefonía,Movistar,Gasto,114.44
+2021-11-25,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2021-11-25,Seguros,Mapfre,Gasto,200.0
+2021-11-25,Agua,Canal Isabel II,Gasto,79.77
+2021-11-25,Nóminas,Personal,Gasto,4121.52
+2021-11-25,Seguridad Social,TGSS,Gasto,1302.37
+2021-11-25,Gestoría,AsesoresPlus,Gasto,150.0
+2021-11-25,Software y Licencias,Varios,Gasto,259.67
+2021-11-25,Servicios Profesionales,Sistemas Integrados,Ingreso,3453.23
+2021-11-25,Servicios Profesionales,Sistemas Integrados,Ingreso,2432.11
+2021-11-25,Mantenimiento,ServiTech,Gasto,260.14
+2021-12-25,Material Oficina,Office Depot,Gasto,211.58
+2021-12-25,Electricidad,Iberdrola,Gasto,238.21
+2021-12-25,Agua,Canal Isabel II,Gasto,68.22
+2021-12-25,Internet y Telefonía,Movistar,Gasto,140.89
+2021-12-25,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2021-12-25,Seguros,Mapfre,Gasto,200.0
+2021-12-25,Servicios Profesionales,Consultoría Avanzada,Ingreso,3097.91
+2021-12-25,Nóminas,Personal,Gasto,2731.99
+2021-12-25,Seguridad Social,TGSS,Gasto,749.71
+2021-12-25,Gestoría,AsesoresPlus,Gasto,150.0
+2021-12-25,Software y Licencias,Varios,Gasto,476.02
+2021-12-25,Servicios Profesionales,TechSolutions SA,Ingreso,3863.14
+2021-12-25,Servicios Profesionales,Innovatech,Ingreso,3500.56
+2021-12-25,Mantenimiento,ServiTech,Gasto,85.51
+2022-01-24,Electricidad,Iberdrola,Gasto,177.41
+2022-01-24,Agua,Canal Isabel II,Gasto,44.02
+2022-01-24,Internet y Telefonía,Movistar,Gasto,128.97
+2022-01-24,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2022-01-24,Material Oficina,Office Depot,Gasto,71.39
+2022-01-24,Seguros,Mapfre,Gasto,200.0
+2022-01-24,Mantenimiento,ServiTech,Gasto,158.57
+2022-01-24,Nóminas,Personal,Gasto,3030.67
+2022-01-24,Seguridad Social,TGSS,Gasto,848.73
+2022-01-24,Gestoría,AsesoresPlus,Gasto,150.0
+2022-01-24,Software y Licencias,Varios,Gasto,110.58
+2022-01-24,Servicios Profesionales,Innovatech,Ingreso,4767.08
+2022-02-23,Electricidad,Iberdrola,Gasto,214.44
+2022-02-23,Agua,Canal Isabel II,Gasto,66.76
+2022-02-23,Internet y Telefonía,Movistar,Gasto,114.3
+2022-02-23,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2022-02-23,Material Oficina,Office Depot,Gasto,202.8
+2022-02-23,Seguros,Mapfre,Gasto,200.0
+2022-02-23,Servicios Profesionales,Innovatech,Ingreso,5938.7
+2022-02-23,Nóminas,Personal,Gasto,2601.17
+2022-02-23,Seguridad Social,TGSS,Gasto,888.32
+2022-02-23,Gestoría,AsesoresPlus,Gasto,150.0
+2022-02-23,Software y Licencias,Varios,Gasto,115.62
+2022-02-23,Servicios Profesionales,Innovatech,Ingreso,3031.62
+2022-02-23,Mantenimiento,ServiTech,Gasto,107.44
+2022-03-25,Electricidad,Iberdrola,Gasto,270.82
+2022-03-25,Agua,Canal Isabel II,Gasto,34.23
+2022-03-25,Internet y Telefonía,Movistar,Gasto,103.96
+2022-03-25,Seguros,Mapfre,Gasto,200.0
+2022-03-25,Material Oficina,Office Depot,Gasto,241.57
+2022-03-25,Mantenimiento,ServiTech,Gasto,165.31
+2022-03-25,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2022-03-25,Seguridad Social,TGSS,Gasto,1108.82
+2022-03-25,Gestoría,AsesoresPlus,Gasto,150.0
+2022-03-25,Software y Licencias,Varios,Gasto,296.3
+2022-03-25,Servicios Profesionales,Consultoría Avanzada,Ingreso,4110.56
+2022-03-25,Servicios Profesionales,Sistemas Integrados,Ingreso,4308.46
+2022-03-25,Servicios Profesionales,Sistemas Integrados,Ingreso,5963.95
+2022-03-25,Nóminas,Personal,Gasto,4072.77
+2022-04-24,Electricidad,Iberdrola,Gasto,233.2
+2022-04-24,Agua,Canal Isabel II,Gasto,89.03
+2022-04-24,Internet y Telefonía,Movistar,Gasto,139.1
+2022-04-24,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2022-04-24,Material Oficina,Office Depot,Gasto,89.17
+2022-04-24,Seguros,Mapfre,Gasto,200.0
+2022-04-24,Mantenimiento,ServiTech,Gasto,158.79
+2022-04-24,Nóminas,Personal,Gasto,3944.27
+2022-04-24,Seguridad Social,TGSS,Gasto,1313.31
+2022-04-24,Gestoría,AsesoresPlus,Gasto,150.0
+2022-04-24,Software y Licencias,Varios,Gasto,107.27
+2022-04-24,Servicios Profesionales,Consultoría Avanzada,Ingreso,4545.1
+2022-05-24,Electricidad,Iberdrola,Gasto,378.46
+2022-05-24,Agua,Canal Isabel II,Gasto,98.93
+2022-05-24,Internet y Telefonía,Movistar,Gasto,149.24
+2022-05-24,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2022-05-24,Material Oficina,Office Depot,Gasto,196.65
+2022-05-24,Seguros,Mapfre,Gasto,200.0
+2022-05-24,Seguridad Social,TGSS,Gasto,1586.88
+2022-05-24,Nóminas,Personal,Gasto,4005.53
+2022-05-24,Gestoría,AsesoresPlus,Gasto,150.0
+2022-05-24,Software y Licencias,Varios,Gasto,157.69
+2022-05-24,Servicios Profesionales,Sistemas Integrados,Ingreso,5286.21
+2022-05-24,Servicios Profesionales,Sistemas Integrados,Ingreso,7344.5
+2022-05-24,Mantenimiento,ServiTech,Gasto,136.77
+2022-06-23,Electricidad,Iberdrola,Gasto,194.16
+2022-06-23,Agua,Canal Isabel II,Gasto,78.09
+2022-06-23,Internet y Telefonía,Movistar,Gasto,148.45
+2022-06-23,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2022-06-23,Material Oficina,Office Depot,Gasto,124.66
+2022-06-23,Nóminas,Personal,Gasto,4686.25
+2022-06-23,Mantenimiento,ServiTech,Gasto,185.21
+2022-06-23,Seguridad Social,TGSS,Gasto,1321.06
+2022-06-23,Gestoría,AsesoresPlus,Gasto,150.0
+2022-06-23,Software y Licencias,Varios,Gasto,152.02
+2022-06-23,Servicios Profesionales,TechSolutions SA,Ingreso,4014.59
+2022-06-23,Seguros,Mapfre,Gasto,200.0
+2022-07-23,Servicios Profesionales,Desarrollo Digital SL,Ingreso,3305.91
+2022-07-23,Servicios Profesionales,TechSolutions SA,Ingreso,3641.31
+2022-07-23,Software y Licencias,Varios,Gasto,169.5
+2022-07-23,Servicios Profesionales,Innovatech,Ingreso,4307.86
+2022-07-23,Electricidad,Iberdrola,Gasto,199.65
+2022-07-23,Agua,Canal Isabel II,Gasto,53.92
+2022-07-23,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2022-07-23,Material Oficina,Office Depot,Gasto,124.55
+2022-07-23,Internet y Telefonía,Movistar,Gasto,67.78
+2022-07-23,Mantenimiento,ServiTech,Gasto,57.57
+2022-07-23,Nóminas,Personal,Gasto,2354.35
+2022-07-23,Seguridad Social,TGSS,Gasto,758.48
+2022-07-23,Gestoría,AsesoresPlus,Gasto,150.0
+2022-07-23,Seguros,Mapfre,Gasto,200.0
+2022-08-22,Material Oficina,Office Depot,Gasto,118.85
+2022-08-22,Electricidad,Iberdrola,Gasto,105.05
+2022-08-22,Agua,Canal Isabel II,Gasto,24.94
+2022-08-22,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2022-08-22,Seguros,Mapfre,Gasto,200.0
+2022-08-22,Internet y Telefonía,Movistar,Gasto,48.87
+2022-08-22,Nóminas,Personal,Gasto,1823.02
+2022-08-22,Seguridad Social,TGSS,Gasto,469.77
+2022-08-22,Gestoría,AsesoresPlus,Gasto,150.0
+2022-08-22,Servicios Profesionales,Desarrollo Digital SL,Ingreso,879.38
+2022-08-22,Software y Licencias,Varios,Gasto,14.29
+2022-08-22,Servicios Profesionales,Desarrollo Digital SL,Ingreso,2136.79
+2022-08-22,Mantenimiento,ServiTech,Gasto,60.56
+2022-09-21,Electricidad,Iberdrola,Gasto,223.27
+2022-09-21,Agua,Canal Isabel II,Gasto,102.63
+2022-09-21,Internet y Telefonía,Movistar,Gasto,104.14
+2022-09-21,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2022-09-21,Material Oficina,Office Depot,Gasto,193.78
+2022-09-21,Seguros,Mapfre,Gasto,200.0
+2022-09-21,Nóminas,Personal,Gasto,2793.17
+2022-09-21,Seguridad Social,TGSS,Gasto,1371.03
+2022-09-21,Gestoría,AsesoresPlus,Gasto,150.0
+2022-09-21,Software y Licencias,Varios,Gasto,318.84
+2022-09-21,Servicios Profesionales,TechSolutions SA,Ingreso,4810.51
+2022-09-21,Mantenimiento,ServiTech,Gasto,142.99
+2022-10-21,Electricidad,Iberdrola,Gasto,273.26
+2022-10-21,Agua,Canal Isabel II,Gasto,111.68
+2022-10-21,Internet y Telefonía,Movistar,Gasto,160.61
+2022-10-21,Seguros,Mapfre,Gasto,200.0
+2022-10-21,Material Oficina,Office Depot,Gasto,181.84
+2022-10-21,Mantenimiento,ServiTech,Gasto,163.91
+2022-10-21,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2022-10-21,Seguridad Social,TGSS,Gasto,1441.87
+2022-10-21,Servicios Profesionales,TechSolutions SA,Ingreso,6098.92
+2022-10-21,Servicios Profesionales,Innovatech,Ingreso,7894.46
+2022-10-21,Nóminas,Personal,Gasto,5139.0
+2022-10-21,Software y Licencias,Varios,Gasto,343.86
+2022-10-21,Gestoría,AsesoresPlus,Gasto,150.0
+2022-10-21,Servicios Profesionales,TechSolutions SA,Ingreso,8675.02
+2022-11-20,Electricidad,Iberdrola,Gasto,155.95
+2022-11-20,Agua,Canal Isabel II,Gasto,88.63
+2022-11-20,Internet y Telefonía,Movistar,Gasto,143.28
+2022-11-20,Material Oficina,Office Depot,Gasto,132.88
+2022-11-20,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2022-11-20,Nóminas,Personal,Gasto,4069.1
+2022-11-20,Seguridad Social,TGSS,Gasto,1481.83
+2022-11-20,Gestoría,AsesoresPlus,Gasto,150.0
+2022-11-20,Software y Licencias,Varios,Gasto,246.2
+2022-11-20,Servicios Profesionales,Innovatech,Ingreso,5146.59
+2022-11-20,Mantenimiento,ServiTech,Gasto,246.56
+2022-11-20,Seguros,Mapfre,Gasto,200.0
+2022-12-20,Seguros,Mapfre,Gasto,200.0
+2022-12-20,Electricidad,Iberdrola,Gasto,256.49
+2022-12-20,Agua,Canal Isabel II,Gasto,57.82
+2022-12-20,Internet y Telefonía,Movistar,Gasto,118.26
+2022-12-20,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2022-12-20,Material Oficina,Office Depot,Gasto,120.76
+2022-12-20,Nóminas,Personal,Gasto,2557.97
+2022-12-20,Seguridad Social,TGSS,Gasto,1345.2
+2022-12-20,Gestoría,AsesoresPlus,Gasto,150.0
+2022-12-20,Software y Licencias,Varios,Gasto,85.2
+2022-12-20,Servicios Profesionales,Innovatech,Ingreso,3587.08
+2022-12-20,Servicios Profesionales,Consultoría Avanzada,Ingreso,2707.36
+2022-12-20,Servicios Profesionales,Sistemas Integrados,Ingreso,4513.05
+2022-12-20,Mantenimiento,ServiTech,Gasto,126.98
+2023-01-19,Electricidad,Iberdrola,Gasto,108.49
+2023-01-19,Agua,Canal Isabel II,Gasto,70.32
+2023-01-19,Internet y Telefonía,Movistar,Gasto,108.41
+2023-01-19,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2023-01-19,Material Oficina,Office Depot,Gasto,186.87
+2023-01-19,Mantenimiento,ServiTech,Gasto,186.42
+2023-01-19,Nóminas,Personal,Gasto,3709.19
+2023-01-19,Seguridad Social,TGSS,Gasto,692.66
+2023-01-19,Gestoría,AsesoresPlus,Gasto,150.0
+2023-01-19,Software y Licencias,Varios,Gasto,128.92
+2023-01-19,Servicios Profesionales,TechSolutions SA,Ingreso,2361.7
+2023-01-19,Seguros,Mapfre,Gasto,200.0
+2023-02-18,Electricidad,Iberdrola,Gasto,257.68
+2023-02-18,Agua,Canal Isabel II,Gasto,113.11
+2023-02-18,Internet y Telefonía,Movistar,Gasto,110.73
+2023-02-18,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2023-02-18,Seguros,Mapfre,Gasto,200.0
+2023-02-18,Material Oficina,Office Depot,Gasto,60.37
+2023-02-18,Nóminas,Personal,Gasto,3655.35
+2023-02-18,Servicios Profesionales,Desarrollo Digital SL,Ingreso,2407.82
+2023-02-18,Servicios Profesionales,Innovatech,Ingreso,6158.9
+2023-02-18,Mantenimiento,ServiTech,Gasto,83.21
+2023-02-18,Gestoría,AsesoresPlus,Gasto,150.0
+2023-02-18,Software y Licencias,Varios,Gasto,212.44
+2023-02-18,Seguridad Social,TGSS,Gasto,1015.73
+2023-03-20,Servicios Profesionales,TechSolutions SA,Ingreso,3677.3
+2023-03-20,Electricidad,Iberdrola,Gasto,257.99
+2023-03-20,Agua,Canal Isabel II,Gasto,45.75
+2023-03-20,Internet y Telefonía,Movistar,Gasto,135.9
+2023-03-20,Seguros,Mapfre,Gasto,200.0
+2023-03-20,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2023-03-20,Nóminas,Personal,Gasto,3438.92
+2023-03-20,Seguridad Social,TGSS,Gasto,1064.15
+2023-03-20,Gestoría,AsesoresPlus,Gasto,150.0
+2023-03-20,Software y Licencias,Varios,Gasto,292.68
+2023-03-20,Servicios Profesionales,TechSolutions SA,Ingreso,3641.77
+2023-03-20,Mantenimiento,ServiTech,Gasto,177.04
+2023-03-20,Material Oficina,Office Depot,Gasto,179.02
+2023-04-19,Material Oficina,Office Depot,Gasto,134.47
+2023-04-19,Electricidad,Iberdrola,Gasto,368.53
+2023-04-19,Agua,Canal Isabel II,Gasto,101.76
+2023-04-19,Internet y Telefonía,Movistar,Gasto,156.05
+2023-04-19,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2023-04-19,Seguros,Mapfre,Gasto,200.0
+2023-04-19,Nóminas,Personal,Gasto,4553.39
+2023-04-19,Seguridad Social,TGSS,Gasto,1313.03
+2023-04-19,Gestoría,AsesoresPlus,Gasto,150.0
+2023-04-19,Software y Licencias,Varios,Gasto,211.38
+2023-04-19,Servicios Profesionales,Desarrollo Digital SL,Ingreso,4696.51
+2023-04-19,Servicios Profesionales,TechSolutions SA,Ingreso,8684.14
+2023-04-19,Mantenimiento,ServiTech,Gasto,194.5
+2023-05-19,Electricidad,Iberdrola,Gasto,298.53
+2023-05-19,Agua,Canal Isabel II,Gasto,121.59
+2023-05-19,Internet y Telefonía,Movistar,Gasto,123.13
+2023-05-19,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2023-05-19,Material Oficina,Office Depot,Gasto,242.19
+2023-05-19,Mantenimiento,ServiTech,Gasto,182.34
+2023-05-19,Nóminas,Personal,Gasto,4403.08
+2023-05-19,Seguridad Social,TGSS,Gasto,1404.45
+2023-05-19,Gestoría,AsesoresPlus,Gasto,150.0
+2023-05-19,Software y Licencias,Varios,Gasto,285.41
+2023-05-19,Servicios Profesionales,Innovatech,Ingreso,6322.05
+2023-05-19,Seguros,Mapfre,Gasto,200.0
+2023-06-18,Electricidad,Iberdrola,Gasto,311.9
+2023-06-18,Agua,Canal Isabel II,Gasto,84.76
+2023-06-18,Internet y Telefonía,Movistar,Gasto,138.15
+2023-06-18,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2023-06-18,Material Oficina,Office Depot,Gasto,81.93
+2023-06-18,Mantenimiento,ServiTech,Gasto,197.88
+2023-06-18,Nóminas,Personal,Gasto,4288.56
+2023-06-18,Servicios Profesionales,TechSolutions SA,Ingreso,3721.29
+2023-06-18,Software y Licencias,Varios,Gasto,104.43
+2023-06-18,Seguros,Mapfre,Gasto,200.0
+2023-06-18,Seguridad Social,TGSS,Gasto,1383.77
+2023-06-18,Gestoría,AsesoresPlus,Gasto,150.0
+2023-07-18,Electricidad,Iberdrola,Gasto,212.91
+2023-07-18,Agua,Canal Isabel II,Gasto,57.91
+2023-07-18,Internet y Telefonía,Movistar,Gasto,73.76
+2023-07-18,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2023-07-18,Seguros,Mapfre,Gasto,200.0
+2023-07-18,Material Oficina,Office Depot,Gasto,180.07
+2023-07-18,Nóminas,Personal,Gasto,1972.97
+2023-07-18,Seguridad Social,TGSS,Gasto,492.86
+2023-07-18,Gestoría,AsesoresPlus,Gasto,150.0
+2023-07-18,Software y Licencias,Varios,Gasto,149.31
+2023-07-18,Servicios Profesionales,Consultoría Avanzada,Ingreso,2905.04
+2023-07-18,Servicios Profesionales,Innovatech,Ingreso,2310.33
+2023-07-18,Mantenimiento,ServiTech,Gasto,92.18
+2023-08-17,Electricidad,Iberdrola,Gasto,91.1
+2023-08-17,Agua,Canal Isabel II,Gasto,40.1
+2023-08-17,Internet y Telefonía,Movistar,Gasto,36.82
+2023-08-17,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2023-08-17,Material Oficina,Office Depot,Gasto,113.52
+2023-08-17,Mantenimiento,ServiTech,Gasto,35.07
+2023-08-17,Nóminas,Personal,Gasto,2410.62
+2023-08-17,Seguridad Social,TGSS,Gasto,369.26
+2023-08-17,Gestoría,AsesoresPlus,Gasto,150.0
+2023-08-17,Software y Licencias,Varios,Gasto,0.0
+2023-08-17,Servicios Profesionales,Innovatech,Ingreso,3028.37
+2023-08-17,Seguros,Mapfre,Gasto,200.0
+2023-09-16,Electricidad,Iberdrola,Gasto,256.71
+2023-09-16,Agua,Canal Isabel II,Gasto,115.44
+2023-09-16,Internet y Telefonía,Movistar,Gasto,133.84
+2023-09-16,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2023-09-16,Material Oficina,Office Depot,Gasto,73.68
+2023-09-16,Seguros,Mapfre,Gasto,200.0
+2023-09-16,Nóminas,Personal,Gasto,4293.16
+2023-09-16,Seguridad Social,TGSS,Gasto,1365.8
+2023-09-16,Gestoría,AsesoresPlus,Gasto,150.0
+2023-09-16,Software y Licencias,Varios,Gasto,254.9
+2023-09-16,Servicios Profesionales,Desarrollo Digital SL,Ingreso,6167.1
+2023-09-16,Mantenimiento,ServiTech,Gasto,81.72
+2023-10-16,Electricidad,Iberdrola,Gasto,324.17
+2023-10-16,Agua,Canal Isabel II,Gasto,85.86
+2023-10-16,Internet y Telefonía,Movistar,Gasto,160.62
+2023-10-16,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2023-10-16,Material Oficina,Office Depot,Gasto,169.69
+2023-10-16,Nóminas,Personal,Gasto,4756.11
+2023-10-16,Mantenimiento,ServiTech,Gasto,104.96
+2023-10-16,Seguridad Social,TGSS,Gasto,1562.25
+2023-10-16,Gestoría,AsesoresPlus,Gasto,150.0
+2023-10-16,Software y Licencias,Varios,Gasto,228.19
+2023-10-16,Servicios Profesionales,Desarrollo Digital SL,Ingreso,7025.37
+2023-10-16,Seguros,Mapfre,Gasto,200.0
+2023-11-15,Electricidad,Iberdrola,Gasto,251.37
+2023-11-15,Agua,Canal Isabel II,Gasto,59.64
+2023-11-15,Internet y Telefonía,Movistar,Gasto,140.96
+2023-11-15,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2023-11-15,Material Oficina,Office Depot,Gasto,148.66
+2023-11-15,Seguros,Mapfre,Gasto,200.0
+2023-11-15,Mantenimiento,ServiTech,Gasto,103.21
+2023-11-15,Nóminas,Personal,Gasto,3564.32
+2023-11-15,Seguridad Social,TGSS,Gasto,1523.99
+2023-11-15,Gestoría,AsesoresPlus,Gasto,150.0
+2023-11-15,Software y Licencias,Varios,Gasto,269.13
+2023-11-15,Servicios Profesionales,Innovatech,Ingreso,8312.44
+2023-11-15,Servicios Profesionales,Innovatech,Ingreso,6478.25
+2023-12-15,Electricidad,Iberdrola,Gasto,300.23
+2023-12-15,Agua,Canal Isabel II,Gasto,59.06
+2023-12-15,Internet y Telefonía,Movistar,Gasto,102.62
+2023-12-15,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2023-12-15,Material Oficina,Office Depot,Gasto,60.15
+2023-12-15,Seguros,Mapfre,Gasto,200.0
+2023-12-15,Nóminas,Personal,Gasto,4215.26
+2023-12-15,Seguridad Social,TGSS,Gasto,1104.82
+2023-12-15,Gestoría,AsesoresPlus,Gasto,150.0
+2023-12-15,Software y Licencias,Varios,Gasto,268.17
+2023-12-15,Servicios Profesionales,Desarrollo Digital SL,Ingreso,3898.27
+2023-12-15,Servicios Profesionales,TechSolutions SA,Ingreso,4120.55
+2023-12-15,Mantenimiento,ServiTech,Gasto,172.27
+2024-01-14,Mantenimiento,ServiTech,Gasto,136.41
+2024-01-14,Electricidad,Iberdrola,Gasto,158.25
+2024-01-14,Agua,Canal Isabel II,Gasto,72.59
+2024-01-14,Internet y Telefonía,Movistar,Gasto,106.44
+2024-01-14,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2024-01-14,Material Oficina,Office Depot,Gasto,37.37
+2024-01-14,Seguros,Mapfre,Gasto,200.0
+2024-01-14,Seguridad Social,TGSS,Gasto,1038.33
+2024-01-14,Gestoría,AsesoresPlus,Gasto,150.0
+2024-01-14,Software y Licencias,Varios,Gasto,41.74
+2024-01-14,Servicios Profesionales,TechSolutions SA,Ingreso,3835.07
+2024-01-14,Servicios Profesionales,Desarrollo Digital SL,Ingreso,5049.24
+2024-01-14,Servicios Profesionales,TechSolutions SA,Ingreso,3339.28
+2024-01-14,Nóminas,Personal,Gasto,2429.88
+2024-02-13,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2024-02-13,Internet y Telefonía,Movistar,Gasto,110.48
+2024-02-13,Material Oficina,Office Depot,Gasto,97.86
+2024-02-13,Electricidad,Iberdrola,Gasto,214.07
+2024-02-13,Agua,Canal Isabel II,Gasto,72.44
+2024-02-13,Seguros,Mapfre,Gasto,200.0
+2024-02-13,Servicios Profesionales,Desarrollo Digital SL,Ingreso,4217.69
+2024-02-13,Nóminas,Personal,Gasto,3168.79
+2024-02-13,Seguridad Social,TGSS,Gasto,1231.58
+2024-02-13,Gestoría,AsesoresPlus,Gasto,150.0
+2024-02-13,Software y Licencias,Varios,Gasto,271.17
+2024-02-13,Servicios Profesionales,Innovatech,Ingreso,4373.57
+2024-02-13,Servicios Profesionales,Consultoría Avanzada,Ingreso,3317.52
+2024-02-13,Mantenimiento,ServiTech,Gasto,134.69
+2024-03-14,Electricidad,Iberdrola,Gasto,297.81
+2024-03-14,Internet y Telefonía,Movistar,Gasto,110.48
+2024-03-14,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2024-03-14,Material Oficina,Office Depot,Gasto,157.93
+2024-03-14,Seguros,Mapfre,Gasto,200.0
+2024-03-14,Mantenimiento,ServiTech,Gasto,68.53
+2024-03-14,Agua,Canal Isabel II,Gasto,74.1
+2024-03-14,Seguridad Social,TGSS,Gasto,1253.29
+2024-03-14,Gestoría,AsesoresPlus,Gasto,150.0
+2024-03-14,Software y Licencias,Varios,Gasto,300.83
+2024-03-14,Servicios Profesionales,Sistemas Integrados,Ingreso,6754.9
+2024-03-14,Servicios Profesionales,TechSolutions SA,Ingreso,4858.77
+2024-03-14,Servicios Profesionales,Innovatech,Ingreso,8946.41
+2024-03-14,Nóminas,Personal,Gasto,3457.71
+2024-04-13,Electricidad,Iberdrola,Gasto,254.55
+2024-04-13,Agua,Canal Isabel II,Gasto,56.05
+2024-04-13,Internet y Telefonía,Movistar,Gasto,143.08
+2024-04-13,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2024-04-13,Material Oficina,Office Depot,Gasto,156.65
+2024-04-13,Mantenimiento,ServiTech,Gasto,135.11
+2024-04-13,Nóminas,Personal,Gasto,3832.05
+2024-04-13,Seguridad Social,TGSS,Gasto,1299.84
+2024-04-13,Gestoría,AsesoresPlus,Gasto,150.0
+2024-04-13,Software y Licencias,Varios,Gasto,243.9
+2024-04-13,Servicios Profesionales,Sistemas Integrados,Ingreso,1890.06
+2024-04-13,Seguros,Mapfre,Gasto,200.0
+2024-05-13,Electricidad,Iberdrola,Gasto,286.95
+2024-05-13,Agua,Canal Isabel II,Gasto,110.67
+2024-05-13,Material Oficina,Office Depot,Gasto,271.59
+2024-05-13,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2024-05-13,Seguros,Mapfre,Gasto,200.0
+2024-05-13,Internet y Telefonía,Movistar,Gasto,143.67
+2024-05-13,Nóminas,Personal,Gasto,3711.32
+2024-05-13,Servicios Profesionales,Innovatech,Ingreso,7713.56
+2024-05-13,Servicios Profesionales,Sistemas Integrados,Ingreso,5819.49
+2024-05-13,Mantenimiento,ServiTech,Gasto,132.51
+2024-05-13,Gestoría,AsesoresPlus,Gasto,150.0
+2024-05-13,Seguridad Social,TGSS,Gasto,1238.31
+2024-05-13,Software y Licencias,Varios,Gasto,413.29
+2024-06-12,Electricidad,Iberdrola,Gasto,262.88
+2024-06-12,Agua,Canal Isabel II,Gasto,79.49
+2024-06-12,Internet y Telefonía,Movistar,Gasto,131.61
+2024-06-12,Material Oficina,Office Depot,Gasto,137.2
+2024-06-12,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2024-06-12,Nóminas,Personal,Gasto,3167.17
+2024-06-12,Seguridad Social,TGSS,Gasto,1231.06
+2024-06-12,Gestoría,AsesoresPlus,Gasto,150.0
+2024-06-12,Software y Licencias,Varios,Gasto,184.99
+2024-06-12,Servicios Profesionales,TechSolutions SA,Ingreso,3994.17
+2024-06-12,Mantenimiento,ServiTech,Gasto,206.66
+2024-06-12,Seguros,Mapfre,Gasto,200.0
+2024-07-12,Seguros,Mapfre,Gasto,200.0
+2024-07-12,Electricidad,Iberdrola,Gasto,154.61
+2024-07-12,Agua,Canal Isabel II,Gasto,105.37
+2024-07-12,Internet y Telefonía,Movistar,Gasto,103.32
+2024-07-12,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2024-07-12,Material Oficina,Office Depot,Gasto,62.89
+2024-07-12,Mantenimiento,ServiTech,Gasto,133.1
+2024-07-12,Seguridad Social,TGSS,Gasto,733.59
+2024-07-12,Gestoría,AsesoresPlus,Gasto,150.0
+2024-07-12,Software y Licencias,Varios,Gasto,51.16
+2024-07-12,Servicios Profesionales,Innovatech,Ingreso,2287.34
+2024-07-12,Servicios Profesionales,Innovatech,Ingreso,1975.99
+2024-07-12,Servicios Profesionales,TechSolutions SA,Ingreso,3055.22
+2024-07-12,Nóminas,Personal,Gasto,2521.47
+2024-08-11,Electricidad,Iberdrola,Gasto,111.01
+2024-08-11,Agua,Canal Isabel II,Gasto,54.61
+2024-08-11,Internet y Telefonía,Movistar,Gasto,67.96
+2024-08-11,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2024-08-11,Material Oficina,Office Depot,Gasto,146.1
+2024-08-11,Seguros,Mapfre,Gasto,200.0
+2024-08-11,Nóminas,Personal,Gasto,1178.77
+2024-08-11,Seguridad Social,TGSS,Gasto,545.78
+2024-08-11,Gestoría,AsesoresPlus,Gasto,150.0
+2024-08-11,Software y Licencias,Varios,Gasto,111.23
+2024-08-11,Servicios Profesionales,TechSolutions SA,Ingreso,3223.58
+2024-08-11,Mantenimiento,ServiTech,Gasto,90.52
+2024-09-10,Electricidad,Iberdrola,Gasto,305.17
+2024-09-10,Agua,Canal Isabel II,Gasto,37.81
+2024-09-10,Internet y Telefonía,Movistar,Gasto,168.62
+2024-09-10,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2024-09-10,Material Oficina,Office Depot,Gasto,192.75
+2024-09-10,Seguros,Mapfre,Gasto,200.0
+2024-09-10,Nóminas,Personal,Gasto,3635.18
+2024-09-10,Seguridad Social,TGSS,Gasto,1321.83
+2024-09-10,Gestoría,AsesoresPlus,Gasto,150.0
+2024-09-10,Software y Licencias,Varios,Gasto,143.55
+2024-09-10,Servicios Profesionales,Sistemas Integrados,Ingreso,5819.25
+2024-09-10,Servicios Profesionales,Sistemas Integrados,Ingreso,3972.88
+2024-09-10,Mantenimiento,ServiTech,Gasto,131.12
+2024-10-10,Electricidad,Iberdrola,Gasto,394.89
+2024-10-10,Agua,Canal Isabel II,Gasto,98.89
+2024-10-10,Internet y Telefonía,Movistar,Gasto,155.84
+2024-10-10,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2024-10-10,Material Oficina,Office Depot,Gasto,99.11
+2024-10-10,Seguros,Mapfre,Gasto,200.0
+2024-10-10,Mantenimiento,ServiTech,Gasto,201.33
+2024-10-10,Nóminas,Personal,Gasto,3218.33
+2024-10-10,Seguridad Social,TGSS,Gasto,1401.87
+2024-10-10,Gestoría,AsesoresPlus,Gasto,150.0
+2024-10-10,Software y Licencias,Varios,Gasto,120.58
+2024-10-10,Servicios Profesionales,TechSolutions SA,Ingreso,10085.96
+2024-10-10,Servicios Profesionales,Innovatech,Ingreso,6640.05
+2024-10-10,Servicios Profesionales,Desarrollo Digital SL,Ingreso,6808.32
+2024-11-09,Electricidad,Iberdrola,Gasto,340.71
+2024-11-09,Agua,Canal Isabel II,Gasto,77.88
+2024-11-09,Internet y Telefonía,Movistar,Gasto,114.71
+2024-11-09,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2024-11-09,Material Oficina,Office Depot,Gasto,228.49
+2024-11-09,Seguros,Mapfre,Gasto,200.0
+2024-11-09,Gestoría,AsesoresPlus,Gasto,150.0
+2024-11-09,Nóminas,Personal,Gasto,4092.99
+2024-11-09,Seguridad Social,TGSS,Gasto,1235.95
+2024-11-09,Software y Licencias,Varios,Gasto,413.72
+2024-11-09,Servicios Profesionales,Innovatech,Ingreso,5568.79
+2024-11-09,Servicios Profesionales,Sistemas Integrados,Ingreso,3474.75
+2024-11-09,Servicios Profesionales,Sistemas Integrados,Ingreso,4675.69
+2024-11-09,Mantenimiento,ServiTech,Gasto,114.15
+2024-12-09,Agua,Canal Isabel II,Gasto,49.27
+2024-12-09,Internet y Telefonía,Movistar,Gasto,116.59
+2024-12-09,Alquiler,Inmobiliaria Centro,Gasto,800.0
+2024-12-09,Material Oficina,Office Depot,Gasto,79.82
+2024-12-09,Seguros,Mapfre,Gasto,200.0
+2024-12-09,Gestoría,AsesoresPlus,Gasto,150.0
+2024-12-09,Nóminas,Personal,Gasto,2474.36
+2024-12-09,Seguridad Social,TGSS,Gasto,1024.78
+2024-12-09,Software y Licencias,Varios,Gasto,39.99
+2024-12-09,Servicios Profesionales,Consultoría Avanzada,Ingreso,2644.78
+2024-12-09,Servicios Profesionales,Desarrollo Digital SL,Ingreso,3110.49
+2024-12-09,Mantenimiento,ServiTech,Gasto,146.81
+2024-12-09,Electricidad,Iberdrola,Gasto,284.2
